@@ -1,0 +1,52 @@
+﻿mineral name,chemistry,Al,Ca,Fe2+,Fe3+,Mg,Mn,O,Si,Ti4+,Sum,a,b,c,volume,P,T,crystal system,space group,citation text,notes
+Donpeacorite,(Mn2+0.58Mg0.40Ca0.03)Σ=1Mg1.00(Si1.00O3)2,0,0.02,0,0,1.4,0.58,6,2,0,10,18.4,8.882,5.228,854.406,,,orthorhombic,,R060646,"Locality: Balmat, Balmat-Edwards Zinc District, St. Lawrence County, New York, USA"
+Enstatite,(Mg0.84Fe0.15Al0.01)Si1.00O3,0.02,0,0.3,0,1.68,0,6,2,0,10,18.2566,8.8467,5.1917,838.515,,,orthorhombic,,R040093,"Locality: Castle Rock, Pennsylvania, USA"
+Enstatite,(Fe.292 Mg.709) Si O3,0,0,0.584,0,1.418,0,6,2,0,10.002,18.281,8.8732,5.207,844.633,,,orthorhombic,Pbca,American Mineralogist 98 (2013) 1526-1534,"Locality: Wilson Terrane, North Victoria Land, Antarctica"
+Enstatite,Mg1.66 Fe.24 Ca.012 Al.14 Si1.94 O6,0.14,0.012,0.24,0,1.66,0,6,1.94,0,9.992,18.231,8.8095,5.1873,833.111,0.00 GPa,,orthorhombic,Pbca,Physics and Chemistry of Minerals 24 (1997) 301-310,
+Donpeacorite,Mg1.433 Mn.541 Ti.002 Ca.024 Si1.997 Al.003 O6,0.003,0.024,0,0,1.433,0.541,6,1.997,0.002,10,18.3668,8.8725,5.2289,852.099,,,orthorhombic,Pbca,American Mineralogist 90 (2005) 155-161,
+Enstatite,(Mg0.85Fe2+0.13Fe3+0.01Mn0.01)Σ=1(Si0.99Al0.01)Σ=1O3,0.02,0,0.26,0.02,1.7,0.02,6,1.98,0,10,18.266,8.8505,5.1964,840.067,,,orthorhombic,,R060744,"Locality: Orissa, India"
+Enstatite,(Mg.59 Fe.41) Si O3,0,0,0.82,0,1.18,0,6,2,0,10,18.2974,8.904,5.2092,848.683,0.00 GPa,,orthorhombic,Pbca,Physics and Chemistry of Minerals 24 (1997) 301-310,
+Enstatite,(Mg0.6Fe2+0.4)SiO3,0,0,0.8,0,1.2,0,6,2,0,10,18.289,8.911,5.208,848.8,,,orthorhombic,Pbca,American Mineralogist 58 (1973) 50-59,Locality: synthetic
+Enstatite,(Fe.296 Mg.704) Si O3,0,0,0.592,0,1.408,0,6,2,0,10,18.3022,8.8816,5.2082,846.608,,,orthorhombic,Pbca,American Mineralogist 98 (2013) 1526-1534,"Locality: Wilson Terrane, North Victoria Land, Antarctica"
+Enstatite,(Mg.751 Fe.249) Si O3,0,0,0.498,0,1.502,0,6,2,0,10,18.2747,8.8729,5.1988,842.983,,296 K,orthorhombic,Pbca,American Mineralogist 80 (1995) 9-20,
+Enstatite,(Mg0.76Fe2+0.19Ca0.05)SiO3,0,0.1,0.38,0,1.52,0,6,2,0,10,18.257,8.858,5.195,840.2,,,orthorhombic,Pbca,American Mineralogist 58 (1973) 50-59,Locality: synthetic
+Enstatite,(Mg0.8Fe2+0.2)SiO3,0,0,0.4,0,1.6,0,6,2,0,10,18.251,8.847,5.195,838.8,,,orthorhombic,Pbca,American Mineralogist 58 (1973) 50-59,Locality: synthetic
+Enstatite,(Mg0.86Fe0.14)Σ=1Si1.00O3,0,0,0.28,0,1.72,0,6,2,0,10,18.2539,8.8441,5.192,838.193,,,orthorhombic,,R070418,Locality: India
+Enstatite,(Mg0.89Fe0.07Al0.04)Σ=1(Si0.96Al0.04)Σ=1O3,0.16,0,0.14,0,1.78,0,6,1.92,0,10,18.2136,8.771,5.1829,827.976,,,orthorhombic,,R060630,Locality: unknown
+Enstatite,(Mg0.9Fe2+0.1)SiO3,0,0,0.2,0,1.8,0,6,2,0,10,18.235,8.841,5.187,836.3,,,orthorhombic,Pbca,American Mineralogist 58 (1973) 50-59,Locality: synthetic
+Enstatite,(Mg0.90Fe0.10)SiO3,0,0,0.2,0,1.8,0,6,2,0,10,18.24,8.8359,5.189,836.295,,,orthorhombic,,R050644,"Locality: Morogoro, Tanzania"
+Enstatite,(Mg0.90Fe0.10)Σ=1Si1.00O3,0,0,0.2,0,1.8,0,6,2,0,10,18.2496,8.8369,5.1914,837.217,,,orthorhombic,,R070550,Locality: Tanzania
+Enstatite,(Mg0.93Fe0.07)Σ=1Si1.00O3,0,0,0.14,0,1.86,0,6,2,0,10,18.212,8.812,5.179,831.147,,,orthorhombic,,R070097,"Locality: Concord, Pennsylvania, USA"
+Enstatite,(Mg0.99Ca0.01)SiO3,0,0.02,0,0,1.98,0,6,2,0,10,18.235,8.815,5.175,831.8,,,orthorhombic,Pbca,American Mineralogist 58 (1973) 50-59,Locality: synthetic
+Enstatite,MgSiO3,0,0,0,0,2,0,6,2,0,10,18.223,8.815,5.169,830.4,,,orthorhombic,Pbca,American Mineralogist 58 (1973) 50-59,Locality: synthetic
+Enstatite,Mg Si O3,0,0,0,0,2,0,6,2,0,10,18.233,8.8191,5.1802,832.969,0 GPa,,orthorhombic,Pbca,American Mineralogist 79 (1994) 405-410,
+Protoenstatite,O3 Si Mg,0,0,0,0,2,0,6,2,0,10,9.171,8.513,5.254,410.194,,,orthorhombic,Pbcn,American Mineralogist 94 (2009) 950-956,Locality: theoretical structure
+Enstatite,Mg Si O3,0,0,0,0,2,0,6,2,0,10,18.21,8.82,5.1767,831.441,0.00010 GPa,,orthorhombic,Pbca,American Mineralogist 97 (2012) 1741-1748,Locality: synthetic
+Enstatite,Mg Si O3,0,0,0,0,2,0,6,2,0,10,18.225,8.8128,5.18,831.977,,,orthorhombic,Pbca,Physics and Chemistry of Minerals 10 (1984) 217-229,
+Enstatite,Mg Si O3,0,0,0,0,2,0,6,2,0,10,18.251,8.814,5.181,833.438,,296 K,orthorhombic,Pbca,Physics and Chemistry of Minerals 22 (1995) 300-310,
+Enstatite,Si Mg O3,0,0,0,0,2,0,6,2,0,10,18.216,8.813,5.179,831.424,,,orthorhombic,Pbca,The Canadian Mineralogist 15 (1977) 321-338,
+Enstatite,Mg Si O3,0,0,0,0,2,0,6,2,0,10,18.21,8.812,5.178,830.896,,,orthorhombic,Pbca,Zeitschrift fur Kristallographie 129 (1969) 65-83,Locality: Bishopville meteorite
+Ferrosilite,Fe Si O3,0,0,2,0,0,0,6,2,0,10,18.418,9.078,5.2366,875.552,,24 C,orthorhombic,Pbca,American Mineralogist 61 (1976) 38-53,
+Ferrosilite,Fe Si O3,0,0,2,0,0,0,6,2,0,10,18.417,9.073,5.239,875.423,0 GPa,,orthorhombic,Pbca,Physics and Chemistry of Minerals 24 (1997) 301-310,
+Donpeacorite,Mg1.47 Mn.53 Si2 O6,0,0,0,0,1.47,0.53,6,2,0,10,18.384,8.878,5.226,852.952,,,orthorhombic,Pbca,American Mineralogist 69 (1984) 472-480,
+Ferrosilite,(Fe2+1.8Mg0.2)Si2O6,0,0,1.8,0,0.2,0,6,2,0,10,18.402,9.053,5.233,871.7,,,orthorhombic,Pbca,American Mineralogist 58 (1973) 50-59,Locality: synthetic
+Ferrosilite,Si2 Fe1.71 Mg.25 Ca.04 O6,0,0.04,1.71,0,0.25,0,6,2,0,10,18.405,9.0338,5.239,871.073,,,orthorhombic,Pbca,American Mineralogist 56 (1971) 850-876,
+Ferrosilite,(Fe2+1.64Mg0.32Al0.02Ca0.02)(Si1.98Al0.02)O6,0.04,0.02,1.64,0,0.32,0,6,1.98,0,10,18.383,9.012,5.2344,867.17,0 GPa,,orthorhombic,Pbca,Physics of The Earth and Planetary Interiors 181 (2013) 2914-2917,Greenland
+Ferrosilite,(Fe2+1.64Mg0.32Al0.02Ca0.02)Σ=2((Si1.98Al0.02)Σ=1O3)2,0.04,0.02,1.64,0,0.32,0,6,1.98,0,10,18.383,9.012,5.2344,867.17,,,orthorhombic,,R070386,Locality: Greenland
+Ferrosilite,(Fe2+1.6Mg0.4)Si2O6,0,0,1.6,0,0.4,0,6,2,0,10,18.37,9.011,5.245,868.2,,,orthorhombic,Pbca,American Mineralogist 58 (1973) 50-59,Locality: synthetic
+Ferrosilite,(Fe2+1.5Mg0.5)Si2O6,0,0,1.5,0,0.5,0,6,2,0,10,18.362,9,5.234,864.9,,,orthorhombic,Pbca,American Mineralogist 58 (1973) 50-59,Locality: synthetic
+Ferrosilite,(Fe2+1.14Mg0.76Ca0.10)Si2O6,0,0.1,1.14,0,0.76,0,6,2,0,10,18.365,8.963,5.229,860.8,,,orthorhombic,Pbca,American Mineralogist 58 (1973) 50-59,Locality: synthetic
+Ferrosilite,(Fe2+1.2Mg0.8)Si2O6,0,0,1.2,0,0.8,0,6,2,0,10,18.321,8.958,5.219,856.6,,,orthorhombic,Pbca,American Mineralogist 58 (1973) 50-59,Locality: synthetic
+Ferrosilite,(Fe2+0.96Mg0.96Ca0.08)Si2O6,0,0.08,0.96,0,0.96,0,6,2,0,10,18.35,8.936,5.234,858.2,,,orthorhombic,Pbca,American Mineralogist 58 (1973) 50-59,Locality: synthetic
+Ferrosilite,(Fe2+Mg)Si2O6,0,0,1,0,1,0,6,2,0,10,18.31,8.931,5.219,853.5,,,orthorhombic,Pbca,American Mineralogist 58 (1973) 50-59,Locality: synthetic
+Enstatite,Si2 Mg1.15 Fe.807 Ca.043 O6,0,0.043,0.807,0,1.15,0,6,2,0,10,18.316,8.907,5.218,851.268,,,orthorhombic,Pbca,American Mineralogist 80 (1995) 923-929,
+Enstatite,Si2 Fe.802 Mg1.155 Ca.043 O6,0,0.043,0.802,0,1.155,0,6,2,0,10,18.32,8.917,5.219,852.573,,,orthorhombic,Pbca,American Mineralogist 80 (1995) 923-929,
+Enstatite,Mg1.93 Ca.07 Si2 O6,0,0.07,0,0,1.93,0,6,2,0,10,18.2588,8.8229,5.1899,836.07,0.0001 GPa,,orthorhombic,Pbca,American Mineralogist 91 (2006) 809-815,Locality: synthetic sample
+Enstatite,Ca.07 Mg1.93 Si2 O6,0,0.07,0,0,1.93,0,6,2,0,10,18.268,8.836,5.196,838.718,,,orthorhombic,Pbca,European Journal of Mineralogy 15 (2003) 365-371,
+Enstatite,Mg1.948 Ca.052 Si2 O6,0,0.052,0,0,1.948,0,6,2,0,10,18.28,8.834,5.197,839.24,,,orthorhombic,Pbca,American Mineralogist 73 (1988) 1255-1263,
+Enstatite,Ca.04 Mg1.96 Si2 O6,0,0.04,0,0,1.96,0,6,2,0,10,18.262,8.826,5.192,836.849,,,orthorhombic,Pbca,European Journal of Mineralogy 15 (2003) 365-371,
+Ferrosilite,Fe2+2Si2O6,0,0,2,0,0,0,6,2,0,10,18.431,9.08,5.238,876.7,,,orthorhombic,Pbca,American Mineralogist 58 (1973) 50-59,Locality: synthetic
+Ferrosilite,(Fe2+1.96Ca0.04)Si2O6,0,0.04,1.96,0,0,0,6,2,0,10,18.453,9.081,5.241,878.2,,,orthorhombic,Pbca,American Mineralogist 58 (1973) 50-59,Locality: synthetic
+Ferrosilite,(Fe2+1.92Ca0.08)Si2O6,0,0.08,1.92,0,0,0,6,2,0,10,18.473,9.076,5.242,878.9,,,orthorhombic,Pbca,American Mineralogist 58 (1973) 50-59,Locality: synthetic
+Ferrosilite,Si2 Mg.636 Fe1.331 Ca.032 O6,0,0.032,1.331,0,0.636,0,6,2,0,9.999,18.337,8.971,5.232,860.67,,20 C,orthorhombic,Pbca,American Mineralogist 58 (1973) 636-648,
+Enstatite,(Mg0.84Fe0.15)(Si0.99Al0.01)O3,0.02,0,0.31,0,1.69,0,6,1.98,0,10,18.2462,8.8429,5.1902,837.435,,,orthorhombic,,R040094,Locality: unknown
