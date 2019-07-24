@@ -1,0 +1,37 @@
+﻿mineral,Al,Ba,Ca,Fe2+,K,Na,O,Si,Sr,sum,a,b,c,alpha,beta,gamma,V,crystal system,space group,reference
+Celsian,2,0.98,0,0,0.02,0,8,2,0,13,8.633,13.058,14.43,90,114.96,90,1474.761,monoclinic,,R060152
+Anorthite,1.68,0,0.68,0,0.01,0.31,8,2.32,0,13,8.173,12.874,14.205,93.46,116.06,90.51,1339.2,triclinic,I1,Geochimica et Cosmochimica Acta 49 (1985) 947-966
+Anorthite,1.525,0,0.525,0,0,0.475,8,2.475,0,13,8.1658,12.8542,14.2096,93.6903,116.2726,89.8088,1334.28,triclinic,I1,American Mineralogist 102 (2017) 1328-1339
+Anorthite,1.72,0,0.72,0,0,0.28,8,2.28,0,13,8.175,12.873,14.205,93.45,116.09,90.56,1339,triclinic,I1,Geochimica et Cosmochimica Acta 49 (1985) 947-966
+Anorthite,1.98,0,0.98,0,0,0.02,8,2.02,0,13,8.18,12.878,14.18,93.15,115.89,91.23,1340.2,triclinic,I1,Geochimica et Cosmochimica Acta 49 (1985) 947-966
+Anorthite,1.98,0,0.98,0,0,0.02,8,2.02,0,13,8.183,12.874,14.178,93.19,115.85,91.22,1340.3,triclinic,I1,Geochimica et Cosmochimica Acta 49 (1985) 947-966
+Anorthite,2,0,0.6,0,0,0,8,2,0.4,13,8.282,12.919,14.221,92.39,115.71,91.18,1368.486,triclinic,P1,Naturwissenschaften 56 (1969) 136-136
+Anorthite,2,0,0.8,0,0,0,8,2,0.2,13,8.229,12.894,14.191,92.81,115.78,91.24,1352.691,triclinic,P1,Naturwissenschaften 56 (1969) 136-136
+Anorthite,1.96,0,0.94,0.02,0,0.04,8,2.04,0,13,8.182,12.8751,14.177,93.21,115.84,91.2,1340.32,triclinic,,R040059
+Celsian,2,1,0,0,0,0,8,2,0,13,8.622,13.078,14.411,90,115.1,90,1471.516,monoclinic,I2/c,American Mineralogist 61 (1976) 414-418
+Celsian,2,1,0,0,0,0,8,2,0,13,8.6373,13.0487,14.4074,90,115.124,90,1470.168,monoclinic,,R060460
+Anorthite,1.524,0,0.524,0,0,0.476,8,2.476,0,13,8.1625,12.8586,14.2038,93.554,116.2161,90.159,1334.12,triclinic,I1,American Mineralogist 102 (2017) 1328-1339
+Anorthite,2,0,1,0,0,0,8,2,0,13,8.175,12.873,14.17,93.11,115.89,91.28,1337.803,triclinic,I1,American Mineralogist 73 (1988) 1114-1119
+Anorthite,2,0,1,0,0,0,8,2,0,13,8.176,12.876,14.175,93.11,115.89,91.28,1338.7,triclinic,I1,Geochimica et Cosmochimica Acta 49 (1985) 947-966
+Anorthite,1.89,0,0.89,0,0,0.11,8,2.11,0,13,8.181,12.876,14.188,93.32,116.01,90.94,1339.5,triclinic,I1,Geochimica et Cosmochimica Acta 49 (1985) 947-966
+Anorthite,1.96,0,0.96,0,0,0.04,8,2.04,0,13,8.179,12.876,14.18,93.18,115.92,91.17,1339.5,triclinic,I1,Geochimica et Cosmochimica Acta 49 (1985) 947-966
+Anorthite,2,0,1,0,0,0,8,2,0,13,8.18,12.873,14.176,93.18,115.85,91.24,1339.5,triclinic,I1,Geochimica et Cosmochimica Acta 49 (1985) 947-966
+Anorthite,1.86,0,0.86,0,0,0.14,8,2.14,0,13,8.184,12.878,14.197,93.37,116.05,90.83,1340.5,triclinic,I1,Geochimica et Cosmochimica Acta 49 (1985) 947-966
+Anorthite,1.89,0,0.89,0,0,0.11,8,2.11,0,13,8.181,12.873,14.187,93.35,115.88,90.99,1340.6,triclinic,I1,Geochimica et Cosmochimica Acta 49 (1985) 947-966
+Anorthite,1.86,0,0.86,0,0,0.14,8,2.14,0,13,8.181,12.878,14.193,93.38,115.92,90.85,1341.2,triclinic,I1,Geochimica et Cosmochimica Acta 49 (1985) 947-966
+Anorthite,1.96,0,0.96,0,0,0.04,8,2.04,0,13,8.185,12.878,14.18,93.23,115.84,91.18,1341.4,triclinic,I1,Geochimica et Cosmochimica Acta 49 (1985) 947-966
+Anorthite,1.67,0,0.67,0,0,0.33,8,2.33,0,13,8.173,12.869,15.2,93.46,116.06,90.54,1338.1,triclinic,I1,Journal of Geophysical Research 121 (2016) 1-13
+Anorthite,1.96,0,0.96,0,0,0.04,8,2.04,0,13,8.1789,12.8717,14.1765,93.194,115.893,91.195,1338.84,triclinic,P1,Journal of Geophysical Research 121 (2016) 1-13
+Anorthite,2,0,1,0,0,0,8,2,0,13,8.181,12.869,14.162,93.2,115.78,91.24,1338.753,triclinic,P1,Naturwissenschaften 56 (1969) 136-136
+Anorthite,2,0,0.5,0,0,0,8,2,0.5,13,8.303,12.93,14.231,92.09,115.66,91.13,1375.149,triclinic,P1,Naturwissenschaften 56 (1969) 136-136
+Anorthite,2,0,1,0,0,0,8,2,0,13,8.173,12.869,14.165,93.113,115.913,91.261,1336.346,triclinic,P1,Zeitschrift fur Kristallographie 133 (1971) 75-84
+Anorthite,2,0,0.7,0,0,0,8,2,0.3,13,8.253,12.903,14.204,92.62,115.72,91.21,1359.871,triclinic,P1,Naturwissenschaften 56 (1969) 136-136
+Anorthite,2,0,0.9,0,0,0,8,2,0.1,13,8.203,12.881,14.18,92.99,115.77,91.25,1345.801,triclinic,P1,Naturwissenschaften 56 (1969) 136-136
+Anorthite,1.78,0,0.78,0,0,0.22,8,2.22,0,13,8.179,12.879,14.201,93.45,116.05,90.67,1340.3,triclinic,I1,Geochimica et Cosmochimica Acta 49 (1985) 947-966
+Anorthite,1.78,0,0.78,0,0,0.22,8,2.22,0,13,8.18,12.876,14.201,93.46,115.95,90.67,1341.2,triclinic,I1,Geochimica et Cosmochimica Acta 49 (1985) 947-966
+Anorthite,1.6,0,0.6,0,0,0.4,8,2.4,0,13,8.1717,12.8752,14.2074,93.453,116.078,91.425,1337.98,triclinic,I1,Journal of Geophysical Research 121 (2016) 1-13
+Anorthite,1.78,0,0.78,0,0,0.22,8,2.22,0,13,8.1798,12.8761,14.1974,93.423,116.054,90.705,1339.74,triclinic,I1,Journal of Geophysical Research 121 (2016) 1-13
+Anorthite,1.5,0,0.501,0,0,0.499,8,2.5,0,13,8.1614,12.8545,14.2112,93.5904,116.2504,90.0075,1333.88,triclinic,I1,American Mineralogist 102 (2017) 1328-1339
+Anorthite,1.85,0,0.86,0,0,0.14,8,2.15,0,13,8.188,12.822,14.196,93.37,116.04,90.87,1335.384,triclinic,P1,Zeitschrift fur Kristallographie 169 (1984) 35-49
+Anorthite,1.84,0,0.86,0,0,0.14,8,2.16,0,13,8.183,12.883,14.186,93.38,115.87,90.82,1341.964,triclinic,I1,Acta Crystallographica B35 (1979) 34-42
+Anorthite,1.5,0,0.52,0,0,0.48,8,2.5,0,13,8.176,12.841,14.207,93.53,116.27,89.77,1334.526,triclinic,C1,"Neues Jahrbuch fur Mineralogie, Monatshefte 1976 (1976) 66-69"
